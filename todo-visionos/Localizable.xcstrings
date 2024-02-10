@@ -1,0 +1,56 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld tasks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld task"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld tasks"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Add todo" : {
+
+    },
+    "Are you sure you want to delete all tasks?" : {
+
+    },
+    "Delete all" : {
+
+    },
+    "Delete all tasks" : {
+
+    },
+    "Get my chores done" : {
+
+    },
+    "Go make yourself a tea, you earned it." : {
+
+    },
+    "Job's a good'un" : {
+
+    },
+    "My todos" : {
+
+    },
+    "Welcome back." : {
+
+    }
+  },
+  "version" : "1.0"
+}
